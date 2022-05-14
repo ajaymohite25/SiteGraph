@@ -1,0 +1,18 @@
+.inputCntnr {
+  display: flex;
+  justify-content: space-between;
+}
+.inputField {
+  width: 45%;
+}
+.submitBtn {
+  text-align: center;
+  margin-top: 1rem;
+}
+.form {
+  margin: 1rem 3rem;
+}
+.loaderCntnr {
+  text-align: center;
+  margin: 2rem 3rem;
+}
